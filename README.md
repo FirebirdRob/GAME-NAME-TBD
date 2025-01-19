@@ -1,5 +1,3 @@
-# GAME-NAME-TBD
+# GAME-NAME-TBD #
 
-# My first game
-
-#Test commit#
+# My First Game #
