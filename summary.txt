@@ -17,4 +17,137 @@ Deliberately impossible boss fights, until you return later
 Random boss encounters, with various triggers, each playthrough will be unique
 Certain character creation aspects not available until world milestones reached in a playthrough
 Players able to become rediculously overpowered by meticulous training
-The player isn't the only 'main character' but hears of their exploits, maybe encounter them as end boss
+The player isn't the only 'main character' but hears of their exploits, maybe encounter them as 
+end boss
+
+
+
+
+IDEA DUMP:
+
+
+
+Insert GAME Here
+
+Fantasy RPG, Single player
+No level scaling, no leveled areas.  Multiple Biomes and starting locations.
+Distinctive monster spawns for each biome. Wolves in forest, Mammoth In Tundra etc.
+Low leveled creatures usually prey, high leveled usually predator.
+Mix of low and high level spawns around all locations. Roaming ‘bosses’.
+Extremely high level “Challenge” spawns in select locations and some random chance encounters. 
+Eg. Skeleton Lord in a scary looking cave in the starter area intended to come back to later, 
+or whoops a dragon just appeared fight or flee. Encounters can be skipped/missed and aren’t always there.
+Skills are leveled up by using them, enough skill ups cause a level up which boosts certain stats 
+based on which skills were leveled up. Eg. Used Athletics, Swimming, Running = Stamina points at 
+level up. Used Mining, Blacksmithing, Woodcutting = Strength points at level up. Plus a base HP 
+increase each level.
+“Fitness Level” Doing physically demanding things (Mining, Running etc) Increases Fitness level, 
+doing sedentary things (Riding Horse/Carridge, Reading, Brewing potions) Decreases fitness level. 
+Starts at 0, when in the + get bonus to run speed, stamina, jump height etc, when in – get penalty 
+to the same.
+Food/Drink. Not staying well fed and hydrated will give penalty to stamina/life(hp)/mana(mp) may 
+cause death if it goes on too long. Food and drink provided in started locations.
+Sleep. Earn a well rested bonus for sleeping regularly, penalty if sleep is missed for too long. 
+Extra bonuses/penalties based on comfort level and how well fed and hydrated when sleep is initiated.
+Encumbrance. Based on Strength stat, higher can carry more. If overburdened, can’t pick anything
+else up, movement speed is slowed (not unreasonably). Magic bags of holding available later on to 
+reduce weight of things contained within.
+“Traits” acquired through repeated styles of play earn achievements and special bonuses/penalties. 
+Eg. regularly staying up late into the night grants ‘Night Owl’ Giving bonus to skill ups between 
+00:00-04:00hrs but reduces stamina before 10:00hrs. Or, regularly travelling around at maximum 
+encumbrance grants ‘Pack Mule’ Giving increased speed at maximum carry weight but increased 
+food/drink drain while at maximum encumbrance.
+Starter Area. Small village with basic facilities, encouraged to stay and work the field but 
+allowed to venture out in the world, no tutorial, starter village has beds and gives food and 
+water and coin for participation in mundane tasks, planting, harvesting, hunting, fetching. 
+Good way to skill up early. When death happens, spawn back at home in bed, a friendly villager 
+saved you before it was too late, death skill/stat loss are less than normal, no gold lost.
+Death. When death occurs suffer stat/skill loss eg. -5 to blacksmithing -1 to strength. 
+Also lose a portion of gold (% based, also has a max cap) as a resurrection ‘tax’ and resurrect 
+in the city in the Infirmary. The gold goes to the priest in charge to facilitate keeping everybody 
+well, the skill/stat loss is due to being momentarily dead.
+Quests should be meaningful and long with many stages and travelling over a long distance, 
+no mundane fetch quests (with some exceptions for low level or low reputation) and even some 
+pretend fetch quests to honor the player, eg. Farmer who says he needs help with gathering 
+turnips from his field, recognizes you as an adventurer (reputation based) and thanks you for 
+your service and gives some coin as tribute to your hard work (quest over, no work, all reward)
+Certain people in the world will be able to provide training for skills/stats (for a price/quest reward)
+but only up to their skill level. Player can provide training to certain npc’s in skills to earn coin, 
+but only up to the players skill level, only a certain number of times per npc, per week. 
+Increasing their capability in skills can increase their quality/quantity of goods/services they offer. 
+Eg. train a blacksmith to be better, blacksmith has better weapons/tools/armor for sale, at a 
+discounted rate (capped % discount at certain amount of skill ups)
+Meaningful choices, certain reputation gains and thresholds will have a positive/negative impact 
+on other factions/groups. Eg. complete quest for faction A, reputation with faction A becomes level 2 
+(see reputation scale) also increases reputation with faction B, but decreases reputation with 
+faction Z and seals off a quest with faction Y
+Towns/Cities can be developed if provided with enough resources (either by player or npc’s over time) 
+eg. once town has 5000 wood and 7000 stone, town upgraded and more buildings are present, more people, 
+additional merchants, merchants have more stock/available coin. Settlement level 1 Village, 2 Town, 3 
+City (subject to change, just an example) increasing resources needed for each development level.
+Player can become leader of town/city if enough reputation/contribution points achieved, leaders get 
+coin and discount and other privileges. Potentially earning way to becoming King or Emperor.
+Player can get a jobs eg, logging, smithing, bartending, chef, etc. where the player will fulfill 
+requests or complete minigames. Other jobs include travelling trader (carry x goods from a-b. or 
+travel to b to collect goods and bring them back to a) Jobs should be less valuable than adventuring 
+but be safer.
+Player can either build or buy a house, building can be in certain areas when certain reputation 
+thresholds are met, buying a house will be in the city where reputation has been earned. 
+Until build/buy is available, player can stay in inns/guild/barracks.
+Combat skills. Some skills also improve other skills eg. Increasing short sword skill also grants 
+some progression to Sword skill, large sword skills also grant some progression to greatsword skill, 
+shortbow skill also grants progression to longbow skill, longbow skill to warbow skill.
+
+
+Character creation, start by designing appearance, then player is in a dream, scenarios play out 
+asking what they would do, eg. your sister is being attacked by a wolf, do you: call for help, 
+punch it, throw a rock at it, hit it with a stick, run away. These questions build a profile to 
+determine skill distribution/class. Primary skills start at 10, secondary start at 5, all other 
+start at 0. 
+Stat points (strength, dexterity, intelligence) are determined by the classification of 
+primary/secondary skills. eg. primary skills of thrown and mining would give +1dex and +1 
+strength respectively.
+Items: All base weapons/armor can be used as long as strength dexterity requirements are met, 
+skill level of each classification of weapon determines damage dealt and stamina used. 
+Magical Items have a level requirement to use based on the enchantment, more powerful an enchantment 
+the higher the level required.
+Disenchanting does not destroy the weapon, just removes the enchantment, which can either be turned 
+into enchanting materials, or stored on enchanting parchment for later use (enchanting skill check 
+required for successful disenchant eg. level 35 enchanting, level 25 item, success. Level 35 
+enchanting, level 50 item, fail)
+Spellweaving: Player must have high enough level spellweaving skill plus high enough level other 
+magic skill to make new spells. Eg, spellweaving 20, elemental 30, look through elemental spellbook, 
+use any spell lower than level 20 as a base, then modify parameters. Eg. fireball (level 10) 20 damage, 
+5 burning per second/2 seconds. Turn into fireball (level 20), 30 damage, 2 burning per second/10 
+seconds. Magic affixes can be raised/lowered for each part of each spell, resulting spell level will 
+change depending on parameters, cannot make a spell higher than spellweaving skill, cannot use a spell 
+if the associated magic skill not high enough. Eg. spellweaving 50 can make level 50 spell, but if 
+elemental skill is 30, can’t use the level 50 spell until elemental is 50. Spellweaving skill is the 
+requirement for both the spell in and spell out, the particular magic skill is only for accessing that 
+skills available spells.
+Gathering/Crafting skill level requirements for each new material/type/advancement. Eg. 
+Mining Copper(10)>Tin(15)>Iron(30)	Smelting Copper(10)>Tin(15)>Bronze(20)>Iron(30)>Steel(40)	
+Blacksmithing Copper(10)>Bronze(20)>Iron(30)>Steel(40). 
+Maybe spread advancements out more, so that each stage feels more valuable.
+Initial levels of professions must be learned from a trainer, then once at level 10 can start 
+developing skills by use.
+Realms. A heavenly/sky realm with angelic beings, an underworld/hellscape with demonic entities, 
+an undersea kingdom with merfolk. Accessible with portals? Or maybe free to explore eg. fly on a 
+flying mount into the clouds to reach the sky domain.
+
+
+
+
+Dungeons: A many floored(100?1000?) procedurally generated dungeon(descending)(like Diablo 1) with 
+increasing danger and difficulty (and rewards) with a boss monster (minions too) every 5-10 levels 
+(sword art online) and special bosses at milestones (20, 50, 80 etc) regular traps and environmental 
+hazards (lava etc), Death penalty increased (skills/stats decrease). (Repeatable)
+An evil wizards tower (Quest?) with many(50?) procedurally generated floors (Ascending) of magical 
+puzzles and traps, increasingly challenging combat and waves of monsters to defend against (halls of 
+torment, vampire survivors) Death penalty increased (skills/stats decrease). 
+Labyrinth (Quest?), a sprawling procedurally generated maze all on one level, with many dead ends and 
+lots of traps and hazards, random encounters and boss chambers (dungeons of the unforgiven), hidden 
+doors and fake walls, sliding walls and other puzzles. Goal is to reach the center and retrieve the 
+treasure after defeating the minotaur. Death penalty increased (skills/stats decrease). 
+Special crafting materials and other resources only found in the dungeons, some only found on the 
+lowest/highest floors, or on boss monsters.
