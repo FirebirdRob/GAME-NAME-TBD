@@ -51,14 +51,26 @@ Starts at 0, when in the + get bonus to run speed, stamina, jump height etc, whe
 to the same.
 
 Food/Drink. Not staying well fed and hydrated will give penalty to stamina/life(hp)/mana(mp) may 
-cause death if it goes on too long. Food and drink provided in starter locations.
+cause death if it goes on too long. Food and drink provided in starter locations. Heat drains
+hydration much faster as does exertion and encumberance.
 
 Sleep. Earn a well rested bonus for sleeping regularly, penalty if sleep is missed for too long. 
 Extra bonuses/penalties based on comfort level and how well fed and hydrated when sleep is initiated.
 
+Warm/Cold effect the character, wearing appropriate clothing helps to mitigate said issues, as does
+keeping hydrated and avoiding mid day sun/freezing night temperatures. Being wet in the cold is bad,
+but a benefit in the heat, still not a good idea to sleep wet though.
+
 Encumbrance. Based on Strength stat, higher can carry more. If overburdened, can’t pick anything
-else up, movement speed is slowed (not unreasonably). Magic bags of holding available later on to 
-reduce weight of things contained within.
+else up, movement speed is slowed (not unreasonably) by % of max carry weight carried. 
+Magic bags of holding available later on to reduce weight of things contained within. 
+(different weight reduction, different capacity. Perfect bags of quantum holding have 100% 
+weight reduction and no capacity limit, bags do have their own weight which varies on capacity/size 
+of the bag eg. holds upto 100 @ 50% reduction = (weight of items stored within / 2) + (bag weight) 10.
+meaning total max weight carried = 60, the quantum bag will have a fixed weight eg. 15 but infinite 
+storage) Bags can all be labeled to help with inventory management, and stored in other containers
+as a bag full of stuff. other containers (like chests) still have a maximum capacity (in weight) and
+can also be labeled.
 
 “Traits” acquired through repeated styles of play earn achievements and special bonuses/penalties. 
 Eg. regularly staying up late into the night grants ‘Night Owl’ Giving bonus to skill ups between 
@@ -118,7 +130,15 @@ thresholds are met, buying a house will be in the city where reputation has been
 Until build/buy is available, player can stay in inns/guild/barracks, or camping as a last resort,
 camping should have negative rested bonus, rested penalties, unless the player has a high enough
 camping skill and quality camping gear. Player should still be able to camp with no skill or 
-equipment, but the penalties will be severe.
+equipment, but the penalties will be severe. Bought houses can't be renovated or have their furniture
+removed or destroyed, limited slots to add select features available. player built houses offer much
+more customization and freedom, a plot of land would be purchaced and then the player can build there,
+using parts to build the house (think soulmask, valheim, palworld) in any arrangement as long as it is
+within the plot boundary. player built houses can have any furniture freely added and removed, including
+workstations and storage, some restrictions apply eg. building a forge requires stone floor and tile
+roof, as opposed to flamable materials. workstations recieve crafting time/quality bonuses if the room
+is set up to suit said craft eg. not all in one room with bed etc. forge area should be separate to 
+woodwork area, beds etc.
 
 Combat skills. Some skills also improve other skills eg. Increasing short sword skill also grants 
 some progression to Sword skill, large sword skills also grant some progression to greatsword skill, 
