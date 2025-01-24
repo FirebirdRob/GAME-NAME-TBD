@@ -164,7 +164,16 @@ needed - thin, a lot of physical activity - muscles. low physical activity - lea
 fat and strong, could end up as thin and frail. appropriate stat bonus/penalties apply.
 
 Items: All base weapons/armor can be used as long as strength dexterity requirements are met, 
-skill level of each classification of weapon determines damage dealt and stamina used. 
+skill level of each classification of weapon determines damage multiplier and stamina used. Items 
+have base stats that are effected by the stat multipliers eg. sword damage = 10, str = 100 gives
+10% bonus, 200 str gives 20% bonus damage. Higher quality weapons have higher base damage numbers
+making the bonus a bigger bonus. 10% of 10 = 1, total = 11. 10% of 100 = 10, total 110. higher 
+modifiers give cumulatively more bonus too. eg 1000 str = 100% bonus damage. Titanium greatsword 
+damage = 500, gives total damage of 1000. other stats can also factor into the calculation. for
+example, str 1000, sword 1000, and weapon base damage 1000 ends up being. 1000 +100% = 2000 +100% =
+4000. this makes it imperative to train all stats linked to the weapon to make it as powerful as
+possible. Idealy numbers getting to rediculous multipliers towards end game. eg strength 9500 = 950%
+sword skill 7200 = 720%, base weapon 6430. total damage is 6430 + 950% = 61,085 + 720% = 439,812 dam.
 Magical Items have no level requirements, can be used without identifying them, but there are
 risks of magical blowback, identifying can only be done by a skilled enough enchanter, can be
 the player if the enchanting skill meets the minimum requirement.
