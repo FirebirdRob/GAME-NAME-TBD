@@ -91,7 +91,11 @@ well, the skill/stat loss is due to being momentarily dead. Items are not lost d
 being teleported and resurrected. Certain places and encounters should have true death (marked by
 a special symbol on the hud), no resurrection available, when this occurs last autosave is loaded
 (should be well before the places or encounters that have true death, where there is chance to 
-travel away from said risk, therefor avoiding 'bricking' runs)
+travel away from said risk, therefor avoiding 'bricking' runs). After resurrection, player should
+suffer from resurrection sickness, it temporarily (5-30 mins, depending how frequently the player 
+has died, stay alive longer to keep the sickness time low.) reduces stat gain from combat and 
+physical skills, also requces stamina. Can be removed by waiting the amount of time required,
+or by sleeping in a comfortable bed, eg. not a basic bedroll, of the cheapest inns.
 
 Quests should be meaningful and long with many stages and travelling over a long distance, 
 no mundane fetch quests (with some exceptions for low level or low reputation) and even some 
@@ -144,7 +148,6 @@ Combat skills. Some skills also improve other skills eg. Increasing short sword 
 some progression to Sword skill, large sword skills also grant some progression to greatsword skill, 
 shortbow skill also grants progression to longbow skill, longbow skill to warbow skill. Blacksmithing
 would increase mace/hammer skills.
-
 
 Character creation, player is in a dream, scenarios play out, asking what they would do, eg. your 
 sister is being attacked by a wolf, do you: call for help, punch it, throw a rock at it, hit it 
