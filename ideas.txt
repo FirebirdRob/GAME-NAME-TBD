@@ -1,3 +1,8 @@
+World made up of multiple continents amd islands
+Not all of the world has been colonised, but magical creatures reside in those hidden places
+Empty space between cities/towns/villages, should have frequent points of interest like caves and dens etc
+
+
 different starting zones:
 
 forest, desert, tundra, swamp, mountains, coastal
@@ -6,8 +11,8 @@ different groups of people
 capital cities for each different group of people
 smaller villages and towns in the outskirts of the cities
 
-the dessert capital city should be built inside a mesa, like the peoples palace of d'hara in
-the sword of truth series.
+the desert capital city should be built inside a mesa, like the peoples palace of d'hara in
+the sword of truth series, maybe tunnels to other mesas
 
 the swamp capital should be a sprawling tree house city
 

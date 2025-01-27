@@ -29,9 +29,15 @@ IDEA DUMP:
 
 Insert GAME Here
 
-Fantasy RPG, Single player
+Fantasy RPG, Single player, maybe local multiplayer, not live service
 
-No level scaling, no leveled areas.  Multiple Biomes and starting locations.
+No level scaling, some leveled areas. Mobs of all dificulties mixed around each area, some areas
+being inherantly more dangerous, but extreme danger should be possible in most areas. Player will
+need to learn to run away if an encountered mob is too strong. Easy monsters become trivial as player
+progresses and when outmatched by the player, mobs will opt to avoid the confrontation or flee, if they run
+they will run towards a boss if one is close enough, or other more powerful mobs for backup
+
+Multiple Biomes and starting locations.
 
 Distinctive monster spawns for each biome. Wolves in forest, Mammoth In Tundra etc.
 Low leveled creatures usually prey, high leveled usually predator.
