@@ -3,7 +3,7 @@ A Game that should be:
 Scrolls like:
 
 Open world, story driven, player choices change the world around them,
-many different 'endings' to be discovered and factions to meet
+many different 'endings' to be discovered and factions to meet.
 
 Souls like:
 
