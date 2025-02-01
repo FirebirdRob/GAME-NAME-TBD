@@ -18,7 +18,7 @@ Random boss encounters, with various triggers, each playthrough will be unique
 Certain character creation aspects not available until world milestones reached in a playthrough
 Players able to become rediculously overpowered by meticulous training
 The player isn't the only 'main character' but hears of their exploits, maybe encounter them as 
-end bosses/side quest bosses
+end bosses/side quest bosses.
 
 
 
