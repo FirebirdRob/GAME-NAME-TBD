@@ -35,7 +35,7 @@ No level scaling, some leveled areas. Mobs of all dificulties mixed around each 
 being inherantly more dangerous, but extreme danger should be possible in most areas. Player will
 need to learn to run away if an encountered mob is too strong. Easy monsters become trivial as player
 progresses and when outmatched by the player, mobs will opt to avoid the confrontation or flee, if they run
-they will run towards a boss if one is close enough, or other more powerful mobs for backup
+they will run towards a boss if one is close enough, or other more powerful mobs for backup.
 
 Multiple Biomes and starting locations.
 
