@@ -121,7 +121,7 @@ but only up to their skill level. Player can provide training to certain npc’s
 but only up to the players skill level, only a certain number of times per npc, per week. 
 Increasing their capability in skills can increase their quality/quantity of goods/services they offer. 
 Eg. train a blacksmith to be better, blacksmith has better weapons/tools/armor for sale, at a 
-discounted rate (capped % discount at certain amount of skill ups)
+discounted rate (capped % discount at certain amount of skill ups).
 
 Meaningful choices, certain reputation gains and thresholds will have a positive/negative impact 
 on other factions/groups. Eg. complete quest for faction A, reputation with faction A becomes level 2 
