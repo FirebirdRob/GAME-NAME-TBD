@@ -126,7 +126,7 @@ discounted rate (capped % discount at certain amount of skill ups).
 Meaningful choices, certain reputation gains and thresholds will have a positive/negative impact 
 on other factions/groups. Eg. complete quest for faction A, reputation with faction A becomes level 2 
 (see reputation scale) also increases reputation with faction B, but decreases reputation with 
-faction Z and seals off a quest with faction Y
+faction Z and seals off a quest with faction Y.
 
 Towns/Cities can be developed if provided with enough resources (either by player or npc’s over time) 
 eg. once town has 5000 wood and 7000 stone, town upgraded and more buildings are present, more people, 
