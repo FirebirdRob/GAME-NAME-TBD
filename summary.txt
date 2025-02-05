@@ -212,7 +212,7 @@ developing skills by use.
 Realms. A heavenly/sky realm with angelic beings, an underworld/hellscape with demonic entities, 
 an undersea kingdom with merfolk. Accessible with portals? Or maybe free to explore eg. fly on a 
 flying mount into the clouds to reach the sky domain. Void domain only opens during story
-progression, once reached will unlock void character creation options
+progression, once reached will unlock void character creation options.
 
 Dungeons: A many floored(100?1000?) procedurally generated dungeon(descending)(like Diablo 1) with 
 increasing danger and difficulty (and rewards) with a boss monster (minions too) every 5-10 levels 
