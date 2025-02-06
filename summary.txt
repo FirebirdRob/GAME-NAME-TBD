@@ -237,4 +237,4 @@ walls, sliding walls and other puzzles. Goal is to reach the center and retrieve
 
 Special crafting materials and other resources only found in the dungeons, some only found on the 
 lowest/highest floors, or on boss monsters. Special crafting for god tier items to be deliberately
-walled behind hard content thant needs completing multiple times to craft the items
+walled behind hard content thant needs completing multiple times to craft the items.
