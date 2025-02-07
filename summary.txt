@@ -233,7 +233,7 @@ hazards, random encounters and boss chambers (dungeons of the unforgiven), hidde
 walls, sliding walls and other puzzles. Goal is to reach the center and retrieve the treasure after
  defeating the minotaur, then find a way out. Death penalty increased (skills/stats decrease). 
  (true death zone, autosaves in the entrance hall, no milestones, no portals, some side passages 
- allow exit from the labyrinth, and once opened allow re-entry through said passages)
+ allow exit from the labyrinth, and once opened allow re-entry through said passages).
 
 Special crafting materials and other resources only found in the dungeons, some only found on the 
 lowest/highest floors, or on boss monsters. Special crafting for god tier items to be deliberately
