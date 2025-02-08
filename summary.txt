@@ -226,7 +226,7 @@ autosave and an exit portal appears)
 An evil wizards tower (Quest?) with many(50?) floors (Ascending) of magical puzzles and traps, 
 increasingly challenging combat and waves of monsters to defend against (halls of torment, vampire
  survivors) Death penalty increased (skills/stats decrease). (true death zone,autosaves in the 
- entrance hall where exit is still possible, milestone levels autosave and an exit portal appears)
+ entrance hall where exit is still possible, milestone levels autosave and an exit portal appears).
 
 Labyrinth (Quest?), a sprawling maze all on one level, with many dead ends and lots of traps and 
 hazards, random encounters and boss chambers (dungeons of the unforgiven), hidden doors and fake 
