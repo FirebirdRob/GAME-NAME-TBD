@@ -107,7 +107,7 @@ Quests should be meaningful and long with many stages and travelling over a long
 no mundane fetch quests (with some exceptions for low level or low reputation) and even some 
 pretend fetch quests to honor the player, eg. Farmer who says he needs help with gathering 
 turnips from his field, recognizes you as an adventurer (reputation based) and thanks you for 
-your service and gives some coin as tribute to your hard work (quest over, no work, all reward)
+your service and gives some coin as tribute to your hard work (quest over, no work, all reward).
 
 Player can get a jobs eg, logging, smithing, bartending, chef, etc. where the player will fulfill 
 requests or complete minigames. Other jobs include travelling trader (carry x goods from a-b. or 
