@@ -29,7 +29,7 @@ IDEA DUMP:
 
 Insert GAME Here
 
-Fantasy RPG, Single player, maybe local multiplayer, not live service
+Fantasy RPG, Single player, maybe local multiplayer, not live service.
 
 No level scaling, some leveled areas. Mobs of all dificulties mixed around each area, some areas
 being inherantly more dangerous, but extreme danger should be possible in most areas. Player will
