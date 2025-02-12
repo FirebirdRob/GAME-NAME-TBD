@@ -4,6 +4,6 @@
 
 ## TIMELINE ##
 
-# Started with basic concepts: September 2014 #
+# Started with basic concepts: September 2024 #
 # Started to learn to code : September 2024 #
 # Consolidated on GitHub : January 2025 #
