@@ -28,4 +28,6 @@ must include sky peoples capital city in the clouds, and the merfolk city under 
 same for the demonkin within a hell plane, and the voidspawn in the void.
 
 First playthrough should be in the main starter area, other starter areas unlocked via progression 
-through the game, maybe from reputation, maybe from a quest.
+through the game, maybe from reputation, maybe from a quest. Same goes for classes, at the beginning
+there should only be limited choices, but as new milestones reached ingame it unlocks other classes
+that can be selected at the start of the game.
