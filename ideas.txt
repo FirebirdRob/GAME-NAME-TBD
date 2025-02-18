@@ -31,3 +31,10 @@ First playthrough should be in the main starter area, other starter areas unlock
 through the game, maybe from reputation, maybe from a quest. Same goes for classes, at the beginning
 there should only be limited choices, but as new milestones reached ingame it unlocks other classes
 that can be selected at the start of the game.
+
+Choices made during character creation decide future events, for example if the player chooses 
+strength based options, then once they awake they will be offered the job with the blacksmith,
+if dexterity options are chosen then work at the fletchers would be offered, if stelth options
+are chosen then the player would be offered a job with the towns hunters. This should also effect
+choices further along than just the starter area, not sure yet how far reaching and impactful these
+differences will be.
