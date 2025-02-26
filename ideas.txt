@@ -61,3 +61,19 @@ earn your way, family units are strong and the local community benefits from goo
 cohesion, there by making their country as a whole productive and prosperous. these people depict 
 themselfs in giant glorious statues showing the strong spirit and resolve of the valiant, showing
 a great reverance of life and the light, believing in all that is good. (capitalism)
+
+idea about magic: magic could be made up of syllables that are unknown to the player, magic reading
+skill would be required to start practicing the sounds, they would need to be read out of a magic
+book each time the spell is cast. these syllables become 'learned' after they have been used to 
+actively cast a spell a certain number of times, once all the syllables of a spell have been learned
+then the spell can be transcribed into a personal spellbook and cast from there, once a spell has been
+cast even more, then the spell has been memorised and can be added to a quick cast menu.
+
+the personal spellbook can be an accumulation of favorite spells and stays open in the left hand,
+it can be leafed through to the correct page to be able to cast the spell, other spellbooks may
+contain a limited number of spells or even only one, but again must be open in the hand to be
+read to cast it. quick cast menu should make it able to allocate the memorised spells to a hotbar
+
+eg keybindings: 'b' for personal spellbook then the pages can be turned with the 1-0 keys,
+'q' for quick spell menu. q changes the hotbar keys 1-0 to be memorised spells, both of these 
+examples would be a toggle switch
