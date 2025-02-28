@@ -77,3 +77,19 @@ read to cast it. quick cast menu should make it able to allocate the memorised s
 eg keybindings: 'b' for personal spellbook then the pages can be turned with the 1-0 keys,
 'q' for quick spell menu. q changes the hotbar keys 1-0 to be memorised spells, both of these 
 examples would be a toggle switch
+
+Campaign should be easier than all the other random challenges, campaign conclusion should take
+20 - 30 hours, but then should have a secondary campaign for once you have explored the game
+more in the post campaign world, in the secondary campaign there should be new challenges and
+bosses, plus some returning. It should also unlock higher difficulty challenges around the
+map that wouldn't be accessible until post campaign one, and after campaign two there should be
+yet another, more difficult level of challenges available for the post post game, these should be
+very challenging unless the player has become an acendant deity (skills level 9999) at which point
+they would be trivial. There should be a few (3-5) God level bosses scattered around the world that
+are hard to find, intended as a challenge for only the most overpowered characters, otherwise would
+insta kill most other players, the maps to find these god bosses, and the keys to unlock their
+chambers, to be found from side quests.
+
+Some bosses could reappear once they have been defeated, with higher skills and attributes, even
+more powerful equipment, returned from the void by the keeper of the dead (name to be revised) for
+revenge against the player.
