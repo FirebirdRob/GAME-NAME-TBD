@@ -76,7 +76,7 @@ read to cast it. quick cast menu should make it able to allocate the memorised s
 
 eg keybindings: 'b' for personal spellbook then the pages can be turned with the 1-0 keys,
 'q' for quick spell menu. q changes the hotbar keys 1-0 to be memorised spells, both of these 
-examples would be a toggle switch
+examples would be a toggle switch.
 
 Campaign should be easier than all the other random challenges, campaign conclusion should take
 20 - 30 hours, but then should have a secondary campaign for once you have explored the game
