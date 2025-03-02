@@ -72,7 +72,7 @@ cast even more, then the spell has been memorised and can be added to a quick ca
 the personal spellbook can be an accumulation of favorite spells and stays open in the left hand,
 it can be leafed through to the correct page to be able to cast the spell, other spellbooks may
 contain a limited number of spells or even only one, but again must be open in the hand to be
-read to cast it. quick cast menu should make it able to allocate the memorised spells to a hotbar
+read to cast it. quick cast menu should make it able to allocate the memorised spells to a hotbar.
 
 eg keybindings: 'b' for personal spellbook then the pages can be turned with the 1-0 keys,
 'q' for quick spell menu. q changes the hotbar keys 1-0 to be memorised spells, both of these 
