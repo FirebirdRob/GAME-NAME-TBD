@@ -1,5 +1,9 @@
 A Game that should be:
 
+Text based first iteration, 2d second iteration, and 3d 3rd iteration
+Game Name TBD (text based), Game Name TBD 2 (2d), Game Name TBD 3 (3d)
+maybe sequals, maybe remakes with additions, saves transferrable from old to new versions
+
 Scrolls like:
 
 Open world, story driven, player choices change the world around them,
