@@ -10,7 +10,7 @@ forest, desert, tundra, swamp, mountains, coastal,
 
 different groups of people
 capital cities for each different group of people
-smaller villages and towns in the outskirts of the cities
+smaller villages and towns in the outskirts of the cities.
 
 the desert capital city should be built inside a mesa, like the peoples palace of d'hara in
 the sword of truth series, maybe tunnels to other mesas.
