@@ -1,5 +1,5 @@
 World made up of multiple continents amd islands.
-Not all of the world has been colonised, but magical creatures reside in those hidden places
+Not all of the world has been colonised, but magical creatures reside in those hidden places.
 Empty space between cities/towns/villages, should have frequent points of interest like caves 
 and dens etc.
 
