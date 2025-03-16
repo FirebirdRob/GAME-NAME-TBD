@@ -62,7 +62,7 @@ cohesion, there by making their country as a whole productive and prosperous. th
 themselfs in giant glorious statues showing the strong spirit and resolve of the valiant, showing
 a great reverance of life and the light, believing in all that is good. (capitalism).
 
-idea about magic: magic could be made up of syllables that are unknown to the player, magic reading
+Idea about magic: magic could be made up of syllables that are unknown to the player, magic reading
 skill would be required to start practicing the sounds, they would need to be read out of a magic
 book each time the spell is cast. these syllables become 'learned' after they have been used to 
 actively cast a spell a certain number of times, once all the syllables of a spell have been learned
