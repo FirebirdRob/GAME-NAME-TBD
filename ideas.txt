@@ -69,7 +69,7 @@ actively cast a spell a certain number of times, once all the syllables of a spe
 then the spell can be transcribed into a personal spellbook and cast from there, once a spell has been
 cast even more, then the spell has been memorised and can be added to a quick cast menu.
 
-the personal spellbook can be an accumulation of favorite spells and stays open in the left hand,
+The personal spellbook can be an accumulation of favorite spells and stays open in the left hand,
 it can be leafed through to the correct page to be able to cast the spell, other spellbooks may
 contain a limited number of spells or even only one, but again must be open in the hand to be
 read to cast it. quick cast menu should make it able to allocate the memorised spells to a hotbar.
