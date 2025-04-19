@@ -4,7 +4,7 @@ Empty space between cities/towns/villages, should have frequent points of intere
 and dens etc.
 
 
-different starting zones:
+Different starting zones:
 
 Forest, Desert, Tundra, Swamp, Mountains, coastal,
 
