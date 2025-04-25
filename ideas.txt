@@ -74,7 +74,7 @@ it can be leafed through to the correct page to be able to cast the spell, other
 contain a limited number of spells or even only one, but again must be open in the hand to be
 read to cast it. Quick cast menu should make it able to allocate the memorised spells to a hotbar.
 
-Eg keybindings: 'b' for personal spellbook then the pages can be turned with the 1-0 keys,
+Eg keybindings: 'B' for personal spellbook then the pages can be turned with the 1-0 keys,
 'q' for quick spell menu. q changes the hotbar keys 1-0 to be memorised spells, both of these 
 examples would be a toggle switch.
 
