@@ -75,7 +75,7 @@ contain a limited number of spells or even only one, but again must be open in t
 read to cast it. Quick cast menu should make it able to allocate the memorised spells to a hotbar.
 
 Eg keybindings: 'B' for personal spellbook then the pages can be turned with the 1-0 keys,
-'Q' for quick spell menu. q changes the hotbar keys 1-0 to be memorised spells, both of these 
+'Q' for quick spell menu. Q changes the hotbar keys 1-0 to be memorised spells, both of these 
 examples would be a toggle switch.
 
 Campaign should be easier than all the other random challenges, campaign conclusion should take
