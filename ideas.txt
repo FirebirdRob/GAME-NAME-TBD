@@ -88,7 +88,7 @@ very challenging unless the player has become an acendant deity (skills level 99
 they would be trivial. There should be a few (3-5) God level bosses scattered around the world that
 are hard to find, intended as a challenge for only the most overpowered characters, otherwise would
 insta kill most other players, the maps to find these god bosses, and the keys to unlock their
-chambers, to be found from side quests.
+chambers, to be found from high level side quests.
 
 Some bosses could reappear once they have been defeated, with higher skills and attributes, even
 more powerful equipment, others could have changed appearances, some corrupted or mutated or decayed,
