@@ -94,3 +94,6 @@ Some bosses could reappear once they have been defeated, with higher skills and 
 more powerful equipment, others could have changed appearances, some corrupted or mutated or decayed,
 returned from the void by the Keeper of the Dead (Name to be revised) for revenge against the player.
 
+Resources like in mines should not be replenished, but plants should. Mines could have another branch
+opened up as time progresses to allow for more collecting, but nodes shouldn't replenish. Plants grow
+back naturally but will take time. Other resources should follow this template.
