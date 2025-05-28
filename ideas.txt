@@ -96,4 +96,5 @@ returned from the void by the Keeper of the Dead (Name to be revised) for reveng
 
 Resources like in mines should not be replenished, but plants should. Mines could have another branch
 opened up as time progresses to allow for more collecting, but nodes shouldn't replenish. Plants grow
-back naturally but will take time. Other resources should follow this template.
+back naturally but will take time. Other resources should follow this template but making sure to follow
+logic of what would regenerate.
