@@ -100,5 +100,3 @@ back naturally but will take time, other resources should follow this template b
 logic of what would regenerate.
 
 
-
-
