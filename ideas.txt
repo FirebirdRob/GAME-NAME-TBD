@@ -99,7 +99,8 @@ opened up as time progresses to allow for more collecting, but nodes shouldn't r
 back naturally but will take time, other resources should follow this template but making sure to follow
 logic of what would regenerate.
 
-
+Insect-like aliens come out of a falling meteor, swarm across the land and rapidly multiply using human
+hosts for their gestation.
 
 
 
