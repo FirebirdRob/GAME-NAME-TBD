@@ -102,7 +102,17 @@ logic of what would regenerate.
 Insect-like aliens come out of a falling meteor, swarm across the land and rapidly multiply using human
 hosts for their gestation.
 
-
+Maps: When first starting, the only area on the map is going to be the starter area, when leaving the starter
+area, the next largest regional area will appear as the map, fog of war shroud over places that have not been
+explored, map can be zoomed in by area like in WoW, Continents > Regions > Cities. The more you explore, the
+more of the available continent will be shown, grown region by region. Certain cities will have cartographers
+where you can buy maps of different regions, some fully filled in (explored) others just the fog of war covered
+region and its placement in relation to the rest of the explored world. Factions/races areas may not be known to
+others, and so they may have their own version of "The known world" map. Only by exploring and adventuring and
+buying up maps can all of the possible areas and points of interest be found, some special places will not show
+on a map unless certain quest markers have been passed, or certain maps been bought/found, these are going to be
+the end game places of interest, usually requiring puzzles and riddles to be solved, guardians to be slain or
+otherwise dealt with, environmental hazards to be overcome, and special keys to have been collected.
 
 
 
