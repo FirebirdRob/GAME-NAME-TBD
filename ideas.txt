@@ -114,17 +114,3 @@ on a map unless certain quest markers have been passed, or certain maps been bou
 the end game places of interest, usually requiring puzzles and riddles to be solved, guardians to be slain or
 otherwise dealt with, environmental hazards to be overcome, and special keys to have been collected.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
