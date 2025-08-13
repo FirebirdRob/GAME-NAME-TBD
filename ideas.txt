@@ -163,7 +163,7 @@ elves
 dwarves
 giants
 Merfolk
-
+Bear people
 
 
 
